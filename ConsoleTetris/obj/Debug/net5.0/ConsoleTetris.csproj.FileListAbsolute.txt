@@ -1,0 +1,16 @@
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.AssemblyInfo.cs
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.exe
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.deps.json
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.runtimeconfig.json
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.dll
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ref\ConsoleTetris.dll
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\net5.0\ConsoleTetris.pdb
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.dll
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ref\ConsoleTetris.dll
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.pdb
+C:\Users\Anton\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\net5.0\ConsoleTetris.genruntimeconfig.cache
